@@ -1,4 +1,4 @@
-# Lab exercise 8 objectives
+# Lab exercise 11 objectives
 1. Write C++ programs
 2. Compile C++ programs
 3. Implement programs that use recursion to solve advanced problems
