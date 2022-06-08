@@ -1,0 +1,1 @@
+int linear_search(int array[], int num, int size);
